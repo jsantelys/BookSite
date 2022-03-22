@@ -6,3 +6,7 @@ it also contains a search option for the books in the database. Is made using no
 if you want to run it yourself you have to clone the repository and use:
 npm install           (To get all dependencies)
 npm start
+
+You would also need to set your own enviroment config variables that in this case are:
+
+DATABASE_URL
